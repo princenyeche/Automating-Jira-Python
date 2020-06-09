@@ -1,4 +1,4 @@
-# Automating-Jira-Python
+# Automating Jira Python
 Automation scripts to Jira Cloud using python
 
 * Epic Link Corrector Script
