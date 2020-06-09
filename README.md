@@ -1,7 +1,7 @@
 # Automating Jira Python
-Automation scripts to Jira Cloud using python
+Automation scripts to Jira Cloud using python. below will show case scripts used for performing different functions or solving issues on Jira Cloud.
 
-* Epic Link Corrector Script
+1. Epic Link Corrector Script
 
 ## Configuration
 * Make sure [Python](https://www.python.org/downloads/) is installed, any version from v3.x will do
