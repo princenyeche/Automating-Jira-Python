@@ -4,7 +4,7 @@ Automation scripts to Jira Cloud using python. below will show case scripts used
 1. Epic Link Corrector Script
 
 ## Configuration
-* Make sure [Python](https://www.python.org/downloads/) is installed, any version from v3.x will do
+* Make sure [Python](https://www.python.org/downloads/) is installed, any version from v3.6.x will do
 * Required Package → **[Requests](http://python-requests.org)**
 * You should have PIP installed with the python download, install request by using `$:pip install requests` on your terminal.
 * Ensure that you have access to the next-gen Project.
